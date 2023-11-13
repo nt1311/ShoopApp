@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="transparent">#00000000</color>
+    <color name="transparent_white">#00ffffff</color>
+    <color name="white_alpha_40">#66FFFFFF</color>
+    <color name="white_alpha_70">#B3FFFFFF</color>
+    <color name="transparent_alpha_30">#4D000000</color>
+    <color name="transparent_alpha_60">#99000000</color>
+    <color name="transparent_alpha_80">#CC000000</color>
+    <!-- 仮色 -->
+    <color name="temporary">#00FF22</color>
+
+    <!-- common -->
+    <color name="icon_main">#FE7B74</color>
+    <color name="icon_sub">#7A7A7A</color>
+    <color name="icon_sub2">#B7B7B7</color>
+    <color name="kpiee_pink">#FE7B74</color>
+    <color name="kpiee_pinkgrad_start">#F39792</color>
+    <color name="kpiee_pinkgrad_end">#FE7B74</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="border_main">#D5D5D5</color>
+    <color name="border_sub">#F0F0F0</color>
+    <color name="border_input">#DFDFDF</color>
+    <color name="text_link_main">#FE7B74</color>
+    <color name="fuller_white">#FFFFFF</color>
+    <color name="fuller_white_opacity_60">#99FFFFFF</color>
+    <color name="fuller_white_opacity_90">#E6FFFFFF</color>
+    <color name="fuller_gray1">#232323</color>
+    <color name="fuller_gray2">#434343</color>
+    <color name="fuller_gray3">#5D5D5D</color>
+    <color name="fuller_gray4">#707070</color>
+    <color name="fuller_gray5">#9C9C9C</color>
+    <color name="fuller_gray6">#B7B7B7</color>
+    <color name="fuller_gray8">#EEEEEE</color>
+    <color name="fuller_gray9">#F8F8F8</color>
+    <color name="plain_contents">#232323</color>
+    <color name="loading">#DCDCDC</color>
+    <color name="bg_gray">#F0F0F0</color>
+    <color name="bg_light_gray">#F8F8F8</color>
+    <color name="bg_error">#FF5C5C</color>
+    <color name="bg_light_blue">#E8F6FC</color>
+    <color name="bg_light_pink">#FFF1F1</color>
+    <color name="bg_border_gray">#7A7A7A</color>
+    <color name="bg_border_yellow">#FFD55F</color>
+    <color name="bg_alert">#FDF8ED</color>
+
+    <!-- text -->
+    <color name="text_main">#555555</color>
+    <color name="text_sub">#8E8E8E</color>
+    <color name="text_placeholder_on_white">#D5D5D5</color>
+    <color name="text_placeholder_on_color">#B0B0B0</color>
+    <color name="text_placeholder">#B7B7B7</color>
+    <color name="text_invalid">#D5D5D5</color>
+    <color name="text_error">#FF0000</color>
+    <color name="text_alert">#FE7B74</color>
+
+    <!-- button -->
+    <color name="button_main">#FE7B74</color>
+    <color name="button_main_active">#D95952</color>
+    <color name="button_sub">#5D5D5D</color>
+    <color name="button_sub_active">#3F3F3F</color>
+    <color name="button_inactive">#EAEAEA</color>
+    <color name="button_sub2">#898989</color>
+    <color name="button_tab_inactive">#D5D5D5</color>
+
+    <!-- tip -->
+    <color name="datatip_text_on_right_color_main">#666666</color>
+    <color name="datatip_text_on_right_color_sub">#7C7C7C</color>
+    <color name="datatip_text_on_right_color_num">#555555</color>
+    <color name="datatip_text_num_gray">#606060</color>
+    <color name="datatip_blue_main">#1CA3E3</color>
+    <color name="datatip_pink_main">#FE7B74</color>
+    <color name="datatip_yellow_main">#E8BD50</color>
+    <color name="datatip_green_main">#6ECE40</color>
+    <color name="datatip_purple_main">#B072FF</color>
+    <color name="datatip_bg_white">#FFFFFF</color>
+    <color name="datatip_bg_on_dark_color">#B3FFFFFF</color>
+    <color name="datatip_bg_on_light_color">#FFFFFF</color>
+    <color name="datatip_bg_on_white">#EFEFEF</color>
+    <color name="datatip_gray_sub1">#CFCFCF</color>
+    <color name="datatip_blue_sub1">#B0DFF5</color>
+    <color name="datatip_pink_sub1">#FFD7D5</color>
+    <color name="datatip_yellow_sub1">#F8EBCB</color>
+    <color name="datatip_green_sub1">#D3F0C6</color>
+    <color name="datatip_purple_sub1">#E7D5FF</color>
+    <color name="datatip_gray_sub2">#EFEFEF</color>
+    <color name="datatip_blue_sub2">#E8F6FC</color>
+    <color name="datatip_pink_sub2">#FFF1F1</color>
+    <color name="datatip_yellow_sub2">#FDF8ED</color>
+    <color name="datatip_green_sub2">#F0FAEC</color>
+    <color name="datatip_purple_sub2">#F7F1FF</color>
+    <color name="datatip_border_on_white">#D5D5D5</color>
+    <color name="datatip_border_on_color">#FFFFFF</color>
+    <color name="datatip_gray_main">#8C8C8C</color>
+    <color name="datatip_bg_toolbar">#F9F9F9</color>
+    <color name="datatip_term_daily">#1CA3E3</color>
+    <color name="datatip_term_weekly">#6ECE40</color>
+    <color name="datatip_term_monthly">#E8BD50</color>
+    <color name="datatip_term_yearly">#FE7B74</color>
+    <color name="datatip_term_common">#8E8E8E</color>
+    <color name="datatip_graph_bg_on_white">#F0F0F0</color>
+    <color name="datatip_selection">#1CA3E3</color>
+
+    <color name="label_update_status_0_24h">#F96969</color>
+    <color name="label_update_status_1_3day">#FFA4A4</color>
+    <color name="label_update_status_4_7day">#FFD8D8</color>
+    <color name="label_update_status_after8">#BDBDBD</color>
+    <color name="label_notification">#1CA3E3</color>
+    <color name="label_text_highlight">#3BFFD233</color>
+
+    <color name="icon_selection">#1CA3E3</color>
+
+    <!-- message -->
+    <color name="message_text_sent">#232323</color>
+    <color name="message_label_date_bg">#E5F3FA</color>
+    <color name="message_label_date_text">#57B2DD</color>
+    <color name="message_alpha_20">#98FFFFFF</color>
+    <color name="message_mention">#5FBEEB</color>
+    <color name="message_my_mention">#5FBEEB</color>
+    <color name="massage_mention_bg">#D5F1FF</color>
+    <color name="massage_my_mention_bg">#FDF0C4</color>
+    <color name="message_mention_sent">#C9E8F6</color>
+    <color name="massage_mention_received_me">#57B2DD</color>
+    <color name="massage_mention_received">#8E8E8E</color>
+    <color name="massage_mention_unsent">#57B2DD</color>
+    <color name="massage_url_tel_sent">#C9E8F6</color>
+    <color name="massage_url_tel_received">#57B2DD</color>
+
+    <!-- Widget -->
+    <color name="widget_panel_value_text_black">#555555</color>
+    <color name="widget_panel_value_text_red">#FE7B74</color>
+    <color name="widget_panel_value_text_blue">#1CA3E3</color>
+    <color name="widget_panel_value_text_other">#9C9C9C</color>
+    <color name="widget_value_label_gray">#9C9C9C</color>
+    <color name="widget_period_label">#666666</color>
+    <color name="widget_title_label">#666666</color>
+    <color name="widget_panel_title_label">#666666</color>
+    <color name="widget_panel_header">#E5F3FA</color>
+    <color name="background_widget_period_label">#F0F0F0</color>
+
+    <color name="widget_graph_text_color">#7C7C7C</color>
+    <color name="widget_graph_border">#D5D5D5</color>
+</resources>
